@@ -35,6 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+```
 <!DOCTYPE html>
 <html lang="en">
 
@@ -322,7 +323,7 @@ Publish the website in the given URL.
 </style>
 
 </html>
-
+```
 ## OUTPUT:
 
 ![git log](matcal.png)
